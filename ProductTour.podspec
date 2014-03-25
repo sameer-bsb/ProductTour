@@ -13,8 +13,6 @@ Pod::Spec.new do |s|
   
   s.platform     = :ios, '6.1'
 
-  s.ios.deployment_target = '7.1'
-
   s.source       = { :git => "https://github.com/sameer-bsb/ProductTour.git", :tag => "0.0.1" }
 
   s.source_files  = 'Classes', '*.{h,m}'
