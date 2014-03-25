@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "ProductTour"
   s.version      = "0.0.1"
-  s.summary      = "A short description of ProductTour."
+  s.summary      = "A short description of ProductTour, A short description of ProductTour."
 
   s.description  = "A long description of ProductTour, A long description of ProductTour."
 
