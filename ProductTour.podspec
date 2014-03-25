@@ -3,11 +3,10 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "A short description of ProductTour."
 
-  s.description  = ""
+  s.description  = "A long description of ProductTour, A long description of ProductTour."
 
   s.homepage     = "https://github.com/sameer-bsb/ProductTour"
 
-  s.license      = 'MIT (example)'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author             = { "Ahmed S." => "sameer@bsb.in" }
