@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   #
 
   s.license      = 'MIT (example)'
-  # s.license      = { :type => 'MIT', :file => 'FILE_LICENSE' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -112,8 +112,8 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  # s.framework  = 'SomeFramework'
-  # s.frameworks = 'SomeFramework', 'AnotherFramework'
+  # s.framework  = 'CoreGraphiscs'
+  # s.frameworks = 'CoreGraphics', 'UIKit'
 
   # s.library   = 'iconv'
   # s.libraries = 'iconv', 'xml2'
