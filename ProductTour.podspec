@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "ProductTour"
   s.version      = "0.0.1"
-  s.summary      = "A short description of ProductTour, A short description of ProductTour."
+  s.summary      = "used for showing tour bubbles"
 
-  s.description  = "A long description of ProductTour, A long description of ProductTour."
+  s.description  = "used for showing tour bubble, used for showing tour bubble, used for showing tour bubble,used for showing tour bubble"
 
   s.homepage     = "https://github.com/sameer-bsb/ProductTour"
 
